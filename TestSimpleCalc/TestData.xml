@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TestData>
+  <Items>
+    <MathOperation>Add</MathOperation>
+    <num1>10</num1>
+    <num2>20</num2>
+    <result>30</result>
+  </Items>
+
+  <Items>
+    <MathOperation>Subtract</MathOperation>
+    <num1>10</num1>
+    <num2>20</num2>
+    <result>30</result>
+  </Items>
+
+  <Items>
+    <MathOperation>Multiply</MathOperation>
+    <num1>10</num1>
+    <num2>20</num2>
+    <result>30</result>
+  </Items>
+
+  <Items>
+    <MathOperation>Divide</MathOperation>
+    <num1>10</num1>
+    <num2>20</num2>
+    <result>30</result>
+  </Items>
+  
+</TestData>
